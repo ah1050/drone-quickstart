@@ -40,7 +40,7 @@ This repository provides configuration and instructions for how to get started w
   - Set `DRONE_SERVER_HOST` to your `ngrok` URL, without the `https://` (if your `ngrok` URL is `https://abcd-3fg-hij-k1-mn.ngrok.io`, set `DRONE_SERVER_HOST` to `abcd-3fg-hij-k1-mn.ngrok.io`)
   - Save your changes
 3. Open a new terminal session and change to the directory where you checked out this repository
-  - Execute `run.sh` by typing `./run.sh` and hitting enter
+  - Execute `run.sh` by typing `./run.sh` and hitting enter.
   - Open your `ngrok` URL in a browser, you should be greeted with "**Welcome to Drone**"! 🎉
 
 ### Activate your repository
